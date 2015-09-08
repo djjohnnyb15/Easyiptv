@@ -169,12 +169,6 @@ http://37.187.160.187:8000/live/ressler/skype/79.m3u8
 #EXTINF:-1, [COLOR yellow]--Sky 2 (ALT)--[/COLOR]
 http://bit.do/bcH46
 
-#EXTINF:-1, [COLOR yellow]--Sky Atlantic UK--[/COLOR]
-http://37.187.160.187:8000/live/ressler/skype/81.m3u8
-
-#EXTINF:-1, [COLOR yellow]--Sky Atlantic (ALT)--[/COLOR]
-http://bit.do/bcH4L
-
 #EXTINF:-1, [COLOR yellow]--Sky Living--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/80.m3u8
 
