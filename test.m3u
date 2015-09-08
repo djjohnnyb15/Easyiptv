@@ -5,17 +5,28 @@
 #EXTINF:-1, [COLOR yellow]Updated 23/12/14 @ 17:50 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
+
+
 #EXTINF:-1, [COLOR yellow] --BBC1 HD--[/COLOR]  
 http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+
+
 
 #EXTINF:-1 [COLOR yellow] --BBC1 HQ--[/COLOR] 
 http://31.193.128.229/Streaming/MP.m3u8?device=V8t22V5e8u3Mv30x3Gc216Fy8e2v2E1z7o3Gk492tZq88a2Gd4l0p4Z6k8w6kM5n6y1U606pCb8d83Kt173Y4e4g1T2g85kN&stream=BBC1&q=auto&ver=4.000
 
+
+
 #EXTINF:-1 [COLOR yellow] --BBC2 HD--[/COLOR] 
 http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u
+
+
 
 #EXTINF:-1 [COLOR yellow] --BBC2 HD--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=hB82h2vBo5t83C3q0u3I216kR8j22G17q3mIh492V882aGn404R686dTg56j1wP606F88q3yBa1a73sC441wZ2p85C&stream=BBC2&q=auto&ver=4.000
 
+
+
 #EXTINF:-1 [COLOR yellow] --BBC3 HD --[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
+
