@@ -223,7 +223,7 @@ http://bit.do/bcKwA
 #EXTINF:-1, [COLOR yellow]--RTE 2 --[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/73.m3u8
 
-#EXTINF:-1, [COLOR yellow]--RTE 2 (ALT)
+#EXTINF:-1, [COLOR yellow]--RTE 2 (ALT)--[/COLOR]
 http://bit.do/bcKwi
 
 #EXTINF:-1, [COLOR yellow]--3E Ireland--[/COLOR]
@@ -244,7 +244,7 @@ http://bit.do/bbqUT
 #EXTINF:-1, [COLOR yellow]--Comedy Central UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/82.m3u8
 
-#EXTINF:-1, [COLOR yellow]--Comedy Central Sweden (English Spoken)
+#EXTINF:-1, [COLOR yellow]--Comedy Central Sweden (English Spoken)--[/COLOR]
 http://188.138.9.228:8022
 
 #EXTINF:-1, [COLOR yellow]--Fox Europe (Change To English In Player Settings)--[/COLOR]

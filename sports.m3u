@@ -1,0 +1,486 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR green]--[COLOR red] Updated 08.09.15 [/COLOR]
+
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 1 (Shows Premier League)--[/COLOR]  
+rtmp://80.82.65.162/live playpath=ss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 1 (ALT) (Shows Premier League)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 2 --[/COLOR]  
+rtmp://80.82.78.165/live playpath=sss2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss2&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 2 (ALT)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 3 (Shows La Liga)--[/COLOR]  
+rtmp://89.248.169.50/live playpath=ss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 3 (ALT) (Shows La Liga)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky3 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 4 (ALT)--[/COLOR]  
+rtmp://89.248.169.35/live playpath=ss4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 4--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky4 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 5 --[/COLOR]  
+rtmp://80.82.65.162/live playpath=ss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss5&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports 5 (ALT)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports News--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdskynews swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports News (ALT)--[/COLOR]  
+http://bit.do/bcLJi
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports F1--[/COLOR]  
+rtmp://80.82.65.162/live playpath=ssf1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1&vw=600&vh=450
+
+#EXTINF:-1, [COLOR yellow]--Sky Sports F1 (ALT)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--F1 Channel--[/COLOR]  
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
+
+#EXTINF:-1, [COLOR yellow]--Box Nation--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=125&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--Box Nation (ALT)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdboxnation swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--BT Sport 1 (Shows Premier League)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdbtsport1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--BT Sport 1 (ALT) (Shows Premier League)--[/COLOR]  
+rtmp://80.82.64.140:443/liverepeater playpath=7 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, [COLOR yellow]--BT Sport 2--[/COLOR]  
+rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?
+
+#EXTINF:-1, [COLOR yellow]--BT Sport 2 (ALT)--[/COLOR]  
+rtmp://80.82.64.140:443/liverepeater playpath=8 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, [COLOR yellow]--BT Sport 2 (ALT)--[/COLOR]  
+rtmpe://134.19.185.220:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1, [COLOR yellow]--BT Sport Europe (Shows Champions League)--[/COLOR]  
+rtmpe://188.95.48.69:1935/live/cplushd%20pageUrl=http://xxxxxx.xxx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/token=%ZZri(nKa@#Z/pageUrl=http://flashtv.co/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNB/hdcast.org/SECUREtoke#$%@pageUrlhttphdcast.org%20token=SECURET0KEN#yw%.?()@W!%20playpath=bteulsh?sportpluslsh?skhd1lsh%20pageUrl=http://cdn.lshstream.com/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?
+
+#EXTINF:-1, [COLOR yellow]--BT Sport ESPN --[/COLOR]  
+rtmpe://134.19.185.204:1935/livedge playpath=mamahdvespnuk swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=Fo5_n0w?U.rA6l3-70w47ch live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+#EXTINF:-1, [COLOR yellow]--NBCSN 1080P HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--NBCSN HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--NBCSN SD (Shows Premier League & Various Sports)--[/COLOR]  
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--Sportsnet World (Shows Premier League & Various Sports)--[/COLOR]  
+rtmp://46.28.55.170:80/live%20playpath=world%20swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf%20pageUrl=http://yotv.co/embedo.php?live=tsn1x&vw=620&vh=490%20token=%Zrey(nKa@#Z
+
+#EXTINF:-1, [COLOR yellow]--Sportsnet World (ALT) (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9111
+
+#EXTINF:-1, [COLOR yellow]--Sportsnet 360 HQ (Shows Premier League & Various Sports) --[/COLOR]  
+http://4.31.30.159:9110
+
+#EXTINF:-1, [COLOR yellow]--TSN 1 HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9082
+
+#EXTINF:-1, [COLOR yellow]--TSN 2 HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9083
+
+#EXTINF:-1, [COLOR yellow]--TSN 3 HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9084
+
+#EXTINF:-1, [COLOR yellow]--TSN 4 HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9085
+
+#EXTINF:-1, [COLOR yellow]--TSN 5 HD (Shows Premier League & Various Sports)--[/COLOR]  
+http://4.31.30.159:9086
+
+#EXTINF:-1, [COLOR yellow]--Setanta Ireland (Shows Premier League & Various Sports)--[/COLOR]  
+http://bit.do/bcKDK
+
+#EXTINF:-1, [COLOR yellow]--Viasat Sport Baltic (Shows Premier & Various Football & Sport)--[/COLOR]  
+http://88.118.131.29/vsb.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Canal+ Sport 2 Poland (Shows Premier League & Various Sports)--[/COLOR]  
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/133992
+
+#EXTINF:-1, [COLOR yellow]--Canal+ Sport France (Shows Premier League & Various Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.55:1234
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports 1 HD U.S (Shows Various Football & Sports)--[/COLOR]  
+http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896 |X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports 2 HD U.S (Shows Various Football & Sports)--[/COLOR]  
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, [COLOR yellow]--Sport 1 Voetbal HD Holland (Shows Various Football)--[/COLOR]  
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, [COLOR yellow]--Sport 1 Voetbal SD Holland (Shows Various Football)--[/COLOR]  
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, [COLOR yellow]--PTV Sports English (Shows Premier League & Various Sports)--[/COLOR]  
+rtmp://80.82.64.140:443/liverepeater playpath=15 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, [COLOR yellow]--PTV Sports English (ALT) (Shows Premier League & Various Sports)--[/COLOR]  
+rtmp://80.82.78.85:443/liverepeater playpath=15 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, [COLOR yellow]--Idman Sports (Shows Premier League & Various Sports)--[/COLOR]  
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Idman Sports (ALT) (Shows Premier League & Various Sports)--[/COLOR]  
+http://bak01-edge03.itdc.ge/idman/index.m3u8?token=PSwA5BzRRrqn9R00rXKKmyjgEqRp9wNiaCOWrK6RktvIFwUCNBX22KkFp5buo_64rOMAvhlRFQAIa7HJO4i_2A**
+
+#EXTINF:-1, [COLOR yellow]--Turkmen Sport HQ (Shows Premier League & Various Sport)--[/COLOR]  
+http://tv.online.tm/hls/ch004_md/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Turkmen Sport (Shows Premier League & Various Sport)--[/COLOR]  
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1, [COLOR yellow]--Kaz Sport (Shows Premier League & Various Sport)--[/COLOR]  
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 11 (Shows Premier & Various Football) (English Spoken)--[/COLOR]  
+http://bit.ly/1hWtX1a
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 11 (ALT) (Shows Premier & Various Football) (English Spoken)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.12:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Premiere Asia (English Spoken) (Shows Premier League & Various Football)--[/COLOR]  
+http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 1 Asia (English Spoken) (Shows Various Football & Sports)--[/COLOR]  
+http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 2 Asia (English Spoken) (Shows Various Football & Sports)--[/COLOR]  
+http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 1 HD France (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.20:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 1 HD France (ALT) (Shows Various Football & Sports)--[/COLOR]  
+http://bit.ly/1KfHk7R
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 2 HD France (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.21:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 3 HD France (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.22:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 1 HD ME (Shows Premier League & Various Football)--[/COLOR]  
+http://94.100.31.242:8183/hls/xz3128/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 1 HD ME (ALT) (Shows Premier League & Various Football)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.5:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 2 HD ME (Shows Premier League & Various Football)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.2:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 3 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.17:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 4 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.5:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 7 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.8:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 8 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.9:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 9 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.10:1234
+
+#EXTINF:-1, [COLOR yellow]--Bein Sports 10 HD ME (Shows Various Football & Sports)--[/COLOR]  
+http://178.33.88.129:888/udp/239.102.0.11:1234
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Footbal 1 HD (Shows Premier League & Various Football)--[/COLOR]  
+http://213.95.47.104:8080/btv_00172/
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Footbal 1 (Shows Premier League & Various Football)--[/COLOR]  
+http://s2.edem.tv/iptv/9L8CB92DQXEXG9/124/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Footbal 1 SD (Shows Premier League & Various Football)--[/COLOR]  
+http://213.95.47.104:8080/btv_00171/
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Football 2 (Shows Various Football)--[/COLOR]  
+http://sftr89en.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--SportKlub 1 Serbia (Shows Premier League & Various Football)--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=87&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--SportKlub 1 Croatia (Shows Premier League & Various Football)--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=104&uid=5&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--SportKlub 2 Serbia (Shows Premier League & Various Football)--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=88&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--SportKlub 2 Croatia (Shows Premier League & Various Football)--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=102&uid=5&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--SportKlub 3 Serbia (Shows Various Football)--[/COLOR]  
+http://www.nasatv.eu:80/live?channelId=101&uid=5&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, [COLOR yellow]--DigiSport 1 (Shows Various Football & Sports)--[/COLOR]  
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+
+#EXTINF:-1, [COLOR yellow]--DigiSport 2 (Shows Various Football & Sports)--[/COLOR]  
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+
+#EXTINF:-1, [COLOR yellow]--DigiSport 3(Shows Various Football & Sports)--[/COLOR]  
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+
+#EXTINF:-1, [COLOR yellow]--Arena Sports 1 (Shows Various Football & Sports)--[/COLOR]  
+http://bit.do/beNTp
+
+#EXTINF:-1, [COLOR yellow]--Arena Sports 2 (Shows Various Football & Sports)--[/COLOR]  
+http://bit.do/beNSR
+
+#EXTINF:-1, [COLOR yellow]--Arena Sports 3 (Shows Various Football & Sports)--[/COLOR]  
+http://bit.do/beNR6
+
+#EXTINF:-1, [COLOR yellow]--Arena Sports 4 (Shows Various Football & Sports)--[/COLOR]  
+http://bit.do/beNQX
+
+#EXTINF:-1, [COLOR yellow]--Arena Sports 5 (Shows Various Football & Sports)--[/COLOR]  
+http://bit.do/beNRA
+
+#EXTINF:-1, [COLOR yellow]--Sky Bundesliga 1 (Shows German Football)--[/COLOR]  
+rtmpe://134.19.185.204:1935/livedge playpath=mamahdskyb1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=Fo5_n0w?U.rA6l3-70w47ch live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+#EXTINF:-1, [COLOR yellow]--Sport TV 1 HQ (Shows Various Football)--[/COLOR]  
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to
+
+#EXTINF:-1, [COLOR yellow]--Sport TV 1 (Shows Various Football)--[/COLOR]  
+rtmp://46.246.29.135:1935/stream/ playpath=NdTaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=v45465i595f4d3j4m524n2b4w214x2o244a4x2q2p2v213&adx=&stream=14v2o5m58484w2r2742474i5r2h5d4n2x4k5u354s343h3y5m564t29403q264s2t2x2u234r21413u2v45465i595f4d3j4m5u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2a4a4z284y2v2c4w2i5y21324p2b4a4m5a464y2f4j5w2k574b4z2q254a4b484x2s2t2343434t2y3s2p2&sooor=MTU=&str=is&ok=&cat=1&link=1&idom=ifirstrow.eu
+
+#EXTINF:-1, [COLOR yellow]--Sport TV 2 (Shows Various Football)--[/COLOR]  
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to
+
+#EXTINF:-1, [COLOR yellow]--Sport TV 3 (Shows Various Football)--[/COLOR]  
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Sport (Shows Various Football & Sports)--[/COLOR]  
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Sport Plus (Shows Various Football & Sports)--[/COLOR]  
+http://213.95.47.104:8080/btv_00170
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Sport Plus (ALT) (Shows Various Football & Sports)--[/COLOR]  
+http://213.95.47.104:8080/btv_00169/
+
+#EXTINF:-1, [COLOR yellow]--NTV+ Sport (Shows Various Football & Sports)--[/COLOR]  
+http://pstv.krasmix.ru/tv/sport/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Football 1 Ukraine (Shows Various Football)--[/COLOR]  
+http://195.2.236.22:4022/udp/225.1.3.103:4001
+
+#EXTINF:-1, [COLOR yellow]--Sport 1 Ukraine (Shows Various Football & Sports)--[/COLOR]  
+http://91.193.124.5:8000/sport1
+
+#EXTINF:-1, [COLOR yellow]--Sport 2 Ukraine (Shows Various Football & Sports)--[/COLOR]  
+http://91.193.124.5:8000/sport2
+
+#EXTINF:-1, [COLOR yellow]--C More Sport (Shows Various Football)--[/COLOR]  
+http://188.138.9.228:8023
+
+#EXTINF:-1, [COLOR yellow]--M4 Sport (Shows Chamions League & Various Football)--[/COLOR]  
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Super Sport 1 (Shows Various Football)--[/COLOR]  
+http://81.7.13.162/hls/ss1/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Super Sport 2 (Shows Various Football)--[/COLOR]  
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Super Sport 3 (Shows Various Football)--[/COLOR]  
+http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Viasat Sport Russia (Shows Various Football & Sport)--[/COLOR]  
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Premier Sports --[/COLOR]  
+http://bit.do/biDuf
+
+#EXTINF:-1, [COLOR yellow]--Chelsea TV--[/COLOR]  
+http://bit.do/bcLJ3
+
+#EXTINF:-1, [COLOR yellow]--Eurosport 1 (Change To English In Player Settings)--[/COLOR]  
+http://91.193.124.5:8000/eurosport
+
+#EXTINF:-1, [COLOR yellow]--British Eurosport 1 (Highlights)--[/COLOR]  
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1, [COLOR yellow]--British Eurosport 2 (Change To English In Player Settings)--[/COLOR]  
+http://91.193.124.5:8000/eurosport2
+
+#EXTINF:-1, [COLOR yellow]--William Hill Live Races--[/COLOR]  
+rtsp://whill.tscplayer.net/bettingshop/stream500
+
+#EXTINF:-1, [COLOR yellow]--NBC Golf 1080 HD --[/COLOR]  
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--NBC Golf 720 HD--[/COLOR]  
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--NBC Golf SD--[/COLOR]  
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1, [COLOR yellow]--Viasat Golf HD--[/COLOR]  
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+
+#EXTINF:-1, [COLOR yellow]--Big Ten Network--[/COLOR]  
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1, [COLOR yellow]--PAC 12 National--[/COLOR]  
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1, [COLOR yellow]--PAC 12 Encore--[/COLOR]  
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports U.S--[/COLOR]  
+rtmp://kv2.ts33.net/sat/us012
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports 2 U.S--[/COLOR]  
+rtmp://kv2.ts33.net/sat/us301
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports West U.S--[/COLOR]  
+rtmp://kv2.ts33.net/sat/us011
+
+#EXTINF:-1, [COLOR yellow]--Fox Sports 3 China (Shows Various Sports)--[/COLOR]  
+rtmp://kv2.ts33.net/sat/us162
+
+#EXTINF:-1, [COLOR yellow]--Elta Sports China (Shows Various Football)--[/COLOR]  
+rtmp://kv2.ts33.net/sat/us291
+
+#EXTINF:-1, [COLOR yellow]--ESPN U.S --[/COLOR]  
+rtmp://kv2.ts33.net/sat/us021
+
+#EXTINF:-1, [COLOR yellow]--ESPN HD (Highlights)--[/COLOR]  
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Slovak Sports 1 (Shows Various Sports)--[/COLOR]  
+rtmp://195.168.51.178/live/ss1HD
+
+#EXTINF:-1, [COLOR yellow]--Slovak Sports 2 (Shows Various Sports)--[/COLOR]  
+rtmp://195.168.51.178/live/ss2hd
+
+#EXTINF:-1, [COLOR yellow]--Motors TV--[/COLOR]  
+http://4.31.30.159:9134
+
+#EXTINF:-1, [COLOR yellow]--Arena Sport English (Shows Various Footblall)--[/COLOR]  
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Sony Six (Shows Various Sports)--[/COLOR]  
+rtsp://live2.dabang.pk/tv/sports1
+
+#EXTINF:-1, [COLOR yellow]--TRT Sport HD (Shows Various Football)--[/COLOR]  
+http://bilgidiyari.net/iptv/tr/HasBahCa_TRT_SPOR_HD.m3u8
+
+#EXTINF:-1, [COLOR yellow]--NTV Spor (Shows Various Football & Sports)--[/COLOR]  
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Barca TV--[/COLOR]  
+rtmp://31.220.2.56/pull/barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q&keyt=1440155997 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1, [COLOR yellow]--Real Madrid TV--[/COLOR]  
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, [COLOR yellow]--Sevilla FC TV--[/COLOR]  
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+
+#EXTINF:-1, [COLOR yellow]--Bursaspor TV--[/COLOR]  
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Extreme Sports (Change To English In Player Setings) --[/COLOR]  
+http://195.78.244.219:10000/udp/239.0.3.235:1234
+
+#EXTINF:-1, [COLOR yellow]--Fight Sports Channel--[/COLOR]  
+http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Fightbox HD English--[/COLOR]  
+http://serv19.vintera.tv:8081/boxhd/FightboxHD/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Fighter Channel HD--[/COLOR]  
+http://87.248.160.8/edge/smil:boet/ukturk.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Azteca Deportes (Shows Boxing UFC & Other Sports)--[/COLOR]  
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Abu Dhabi Sports 1 (Shows Various Football)--[/COLOR]  
+http://38.99.146.36:7777/ADSport_HD.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Dubai Sport 2 HD (Shows Various Sports)--[/COLOR]  
+http://38.99.146.36:7777/DubaiSport2_HD.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Dubai Sport 3 HD (Shows Various Sports)--[/COLOR]  
+http://38.99.146.36:7777/DubaiSports_HD.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Sharjah Sport (Shows Various Football)--[/COLOR]  
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]--C More Football (Shows Various Football)--[/COLOR]  
+http://188.138.9.228:8034
+
+#EXTINF:-1, [COLOR yellow]--Sports TV (Shows Various Sports)--[/COLOR]  
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+
+#EXTINF:-1, [COLOR yellow]--Motorsport 7 Channel Australia--[/COLOR]  
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, [COLOR yellow]--Autosports TV--[/COLOR]  
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1, [COLOR yellow]--Trace Sports--[/COLOR]  
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?
+
+#EXTINF:-1, [COLOR yellow]--Sports TV--[/COLOR]  
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+
+#EXTINF:-1, [COLOR yellow]--A Sport--[/COLOR]  
+http://rtmp.turkuvazgroup.net/aspor/aspor3/ukturk.m3u8
+
+#EXTINF:-1, [COLOR yellow]--Tile Sport--[/COLOR]  
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1, [COLOR yellow]--Bahrain Sports--[/COLOR]  
+rtmp://alayam.netromedia.net/btv3/btv3 
+
+#EXTINF:-1, [COLOR yellow]--Fanatik TV--[/COLOR]  
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+
+#EXTINF:-1, [COLOR yellow]--TVA Sport Canada--[/COLOR]  
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+#EXTINF:-1, [COLOR yellow]--CDN Sportsmax--[/COLOR]  
+rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/
+
+#EXTINF:-1, [COLOR yellow]--Classic Goals--[/COLOR]  
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+
+#EXTINF:-1, [COLOR yellow]--Sports Night (Sports Debate Station)--[/COLOR]  
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD(
+
+#EXTINF:-1, [COLOR yellow]--Spor TV--[/COLOR]  
+rtmp://62.210.88.208:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359
+
+#EXTINF:-1, [COLOR yellow]--SportTime Tv--[/COLOR]  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1, [COLOR yellow]--SportTime Tv 1--[/COLOR]  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+
