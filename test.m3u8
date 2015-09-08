@@ -1,0 +1,37 @@
+#‎EXTM3U‬
+
+
+‪#‎EXTINF‬:-1,BBC1 HD 
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+ #EXTINF:-1,Bein Sports 8 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/44.ts
+ #EXTINF:-1,Bein Sports 7 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/43.ts
+ #EXTINF:-1,Bein Sports 6 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/42.ts
+ #EXTINF:-1,Bein Sports 5 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/41.ts
+ #EXTINF:-1,Bein Sports 4 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/40.ts
+ #EXTINF:-1,Bein Sports 3 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/39.ts
+ #EXTINF:-1,Bein Sports 3 FR
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/34.ts
+ #EXTINF:-1,Bein Sports 2 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/38.ts
+ #EXTINF:-1,Bein Sports 2 FR
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/33.ts
+ #EXTINF:-1,Bein Sports 12 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/48.ts
+ #EXTINF:-1,Bein Sports 11 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/47.ts
+ #EXTINF:-1,Bein Sports 10 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/46.ts
+ #EXTINF:-1,Bein Sports 1 HD
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/37.ts
+ #EXTINF:-1,Bein Sports 1 FR
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/32.ts
+ #EXTINF:-1,Bein Max 5
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/36.ts
+ #EXTINF:-1,Bein Max 4
+http://iptvmoroccopes.no-ip.org:8000/…/qwadiyuhiawudh…/35.ts
