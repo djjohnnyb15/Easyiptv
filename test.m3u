@@ -30,3 +30,30 @@ http://88.208.192.7/Streaming/MP.m3u8?device=hB82h2vBo5t83C3q0u3I216kR8j22G17q3m
 #EXTINF:-1, [COLOR yellow] --BBC3 HD --[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
 
+#A:-1,BBC3 HQ
+http://88.208.192.7/Streaming/MP.m3u8?device=eD822Gr5v83F303fU21o6Ng8a2l2N17q3N49u2B8z82oTo404rRo68i6rZc56y1lFo60p6E883Cs173pSy441kOw2k85zA&stream=BBC3&q=auto&ver=4.000
+
+
+#A:-1,BBC3
+http://37.187.160.187:8000/live/ressler/skype/61.m3u8
+
+#A:-1,BBC3/CBBC HQ 
+http://82.135.224.134:80/udp/239.100.3.4:1234
+
+#A:-1,BBC4 HD 
+http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-audio_1%3D128000-video%3D3500000.m3u8
+
+#A:-1,BBC4 HQ
+http://88.208.192.7/Streaming/MP.m3u8?device=C82l2I5e83Rf303rGw21y6tEq8a22kSo173mHl49x2Nh88y2gUs40m4yIq68q6N56y1F6f06V883vW17o3M44a1xK2z85kB&stream=BBC4&q=auto&ver=4.000
+
+#A:-1,BBC4
+http://37.187.160.187:8000/live/ressler/skype/62.m3u8
+
+#A:-1,BBC4/CBeebies HQ
+http://144.76.2.39/bbc_four_gb.m3u8?token=9dde4e975c00c2268f5880e28f5158ef&user=12047&bands=956&os=browser
+
+#A:-1,BBC4/CBeebies HQ (ALT)
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#A:-1,ITV 1 HQ
+http://31.193.128.229/Streaming/MP.m3u8?device=eI822Vd5g83bHn30w3R2s16E82i2cBx17j3hXf49p2Z8j82kHm4f04Bt6c86Hk56u1R6w0b6dPb88c3nL1h73Xn4q4v1aD28z5rW&stream=ITV1&q=auto&ver=4.000
