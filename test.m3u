@@ -2,835 +2,835 @@
 
 
 
-#EXTINF:-1, [COLOR yellow] Updated 23/12/14 @ 17:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]-- Updated 23/12/14 @ 17:50 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 
 
-#EXTINF:-1, [COLOR yellow]  --BBC1 HD--[/COLOR]  
+#EXTINF:-1, [COLOR yellow]----BBC1 HD--[/COLOR]  
 http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
 
 
 
-#EXTINF:-1 , --BBC1 HQ--[/COLOR] 
+#EXTINF:-1 , [--BBC1 HQ--[/COLOR] 
 http://31.193.128.229/Streaming/MP.m3u8?device=V8t22V5e8u3Mv30x3Gc216Fy8e2v2E1z7o3Gk492tZq88a2Gd4l0p4Z6k8w6kM5n6y1U606pCb8d83Kt173Y4e4g1T2g85kN&stream=BBC1&q=auto&ver=4.000
 
 
 
-#EXTINF:-1, [COLOR yellow]  --BBC2 HD--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]----BBC2 HD--[/COLOR] 
 http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
 
 
 
-#EXTINF:-1, [COLOR yellow]--BBC2 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]----BBC2 HQ--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=hB82h2vBo5t83C3q0u3I216kR8j22G17q3mIh492V882aGn404R686dTg56j1wP606F88q3yBa1a73sC441wZ2p85C&stream=BBC2&q=auto&ver=4.000
 
 
 
-#EXTINF:-1, [COLOR yellow] --BBC3 HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]----BBC3 HD--[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC3 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC3 HQ--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=eD822Gr5v83F303fU21o6Ng8a2l2N17q3N49u2B8z82oTo404rRo68i6rZc56y1lFo60p6E883Cs173pSy441kOw2k85zA&stream=BBC3&q=auto&ver=4.000
 
 
-#EXTINF:-1, [COLOR yellow]BBC3--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC3--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/61.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC3/CBBC HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC3/CBBC HQ--[/COLOR]
 http://82.135.224.134:80/udp/239.100.3.4:1234
 
-#EXTINF:-1, [COLOR yellow]BBC4 HD--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--BBC4 HD--[/COLOR] 
 http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-audio_1%3D128000-video%3D3500000.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC4 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC4 HQ--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=C82l2I5e83Rf303rGw21y6tEq8a22kSo173mHl49x2Nh88y2gUs40m4yIq68q6N56y1F6f06V883vW17o3M44a1xK2z85kB&stream=BBC4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]BBC4--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC4--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/62.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC4/CBeebies HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC4/CBeebies HQ--[/COLOR]
 http://144.76.2.39/bbc_four_gb.m3u8?token=9dde4e975c00c2268f5880e28f5158ef&user=12047&bands=956&os=browser
 
-#EXTINF:-1, [COLOR yellow]BBC4/CBeebies HQ (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC4/CBeebies HQ (ALT)--[/COLOR]
 http://82.135.224.134:80/udp/239.100.3.5:1234
 
-#EXTINF:-1, [COLOR yellow]ITV 1 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 1 HQ--[/COLOR]
 http://31.193.128.229/Streaming/MP.m3u8?device=eI822Vd5g83bHn30w3R2s16E82i2cBx17j3hXf49p2Z8j82kHm4f04Bt6c86Hk56u1R6w0b6dPb88c3nL1h73Xn4q4v1aD28z5rW&stream=ITV1&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]ITV 1 HQ (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 1 HQ (ALT)--[/COLOR]
 http://82.135.224.134:80/udp/239.100.3.6:1234
 
-#EXTINF:-1, [COLOR yellow]ITV 1 HQ (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 1 HQ (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/55.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 1--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--ITV 1--[/COLOR] 
 http://bit.do/3hJb
 
-#EXTINF:-1, [COLOR yellow]ITV 1 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 1 (ALT)--[/COLOR]
 http://204.107.27.136/live/11.low.stream/11.low.stream/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 2 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 2 HQ--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=jFl822gFi5c8i3Om3a03iOm21w6xCi82z2eSz1n7w3iU49z2sBd88c2Z404M6u86fF5b61zR6b06lHu883gY173uE44k1xAq2j85Z&stream=ITV2&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]ITV 2--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--ITV 2--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/58.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 2 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 2 (ALT)--[/COLOR]
 http://204.107.27.136/live/67.low.stream/67.low.stream/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 3 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 3 HQ--[/COLOR]
 http://31.193.128.229/Streaming/MP.m3u8?device=xX822rRi58s3M30t3qR216dX8q22iA1d73Z4a92Xq8i8a2Kv40h4pD686rI56h1fTa6q06Vk883H173vKk44b1A28n5T&stream=ITV3&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]ITV 3--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 3--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/59.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 3 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 3 (ALT)--[/COLOR]
 http://204.107.27.136/live/26.low.stream/26.low.stream/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 4 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 4 HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=Hn8e22hY58q3dD3y0k3wG216M82m2Xb1t73Wl4f92iKh88s2mU4o0z4aLe6m8b6N5s61Mi6s0r6Z8l83Pj1i7w3Uz441cY28d5X&stream=ITV4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]ITV 4--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 4--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/60.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV 4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV 4 (ALT)--[/COLOR]
 http://204.107.27.136/live/101.low.stream/101.low.stream/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]ITV BE HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ITV BE HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=oG8v2u2lU583fB3b0j3L216Am8w2c2Ps1s7l3yMt4j92rWb8d8d2We40b4Hc6n86K56r1oU60w6mH8h83G173vMm441Z2j85uX&stream=ITVBe&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Channel 4 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Channel 4 HQ--[/COLOR]
 http://31.193.128.229/Streaming/MP.m3u8?device=gXt822Fp5g8z3K303qCz2t1m6bSo822aFv1o7m3cD4v92rR88w2L4e0d4C6t86qG56k1rJh6t0b6vT8g83qH1g7i3dL441W285D&stream=Channel4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Channel 4--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Channel 4--[/COLOR] 
 http://bit.do/bcH7q
 
-#EXTINF:-1, [COLOR yellow]Channel 4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Channel 4 (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/56.m3u8
 
-#EXTINF:-1, [COLOR yellow]E4 HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--E4 HD--[/COLOR]
 http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
 
-#EXTINF:-1, [COLOR yellow]E4--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--E4--[/COLOR] 
 http://88.208.192.7/Streaming/MP.m3u8?device=kVh822vI58k3W303hO2v16fZa822lHu17x3sY49b2D88w2S404gP6w8b6mQk5k61Z60x6rWz88v3jKc1t73Pn441Mq28n5H&stream=E4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]E4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--E4 (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/63.m3u8
 
-#EXTINF:-1, [COLOR yellow]4/7 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--4/7 HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=fQv82n2mP5v8y3mO303Lq2k16fL82f2xHr1e7f3lI492X882U40q4Kk68p6C56q1Y6v06Q88y3Pu173cYa44k1rUc28l5Q&stream=4Seven&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]More4--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--More4--[/COLOR]
 http://69.64.32.8/Streaming/MP.m3u8?device=wG8t2v2J5y83sDs303uYh2c16oZ8n22Lc1n73oS4d9r2S88y2xZ4a0e4bZi6k8a6U5n61nXz6m0l6D8y8q3eO1y7h3qSp441zVj2w85uU&stream=More4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]More4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--More4 (ALT)--[/COLOR]
 http://bit.do/bcH94
 
-#EXTINF:-1, [COLOR yellow]More4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--More4 (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/64.m3u8
 
-#EXTINF:-1, [COLOR yellow]Channel 5 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Channel 5 HQ--[/COLOR]
 http://88.208.192.7/Streaming/MP.m3u8?device=fU8t2o2eC58u3xL30j3T2b16Zz82k2gL173Az4x9n2nBi8s8x2Ys4u04mSi686uQ561P6c06Z88i3qOe1e7p3Jw4u4c1G2t8q5I&stream=Channel5&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Channel 5--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Channel 5--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/57.m3u8
 
-#EXTINF:-1, [COLOR yellow]Channel 5 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Channel 5 (ALT)--[/COLOR]
 http://bit.do/bcH7x
 
-#EXTINF:-1, [COLOR yellow]5 Star HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 Star HQ--[/COLOR]
 http://69.64.32.8/Streaming/MP.m3u8?device=qD822xS5t83Wj3c03lUf216nKl822dFp17j3gNi49p2Ht882vS4k0r4Cs68m6E561ePs60l6mDw883pZf17w3Pp4t41He28s5cT&stream=Five*&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]5 Star--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 Star--[/COLOR]
 http://bit.do/bcKGS
 
-#EXTINF:-1, [COLOR yellow]5 Star (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 Star (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/71.m3u8
 
-#EXTINF:-1, [COLOR yellow]5 USA HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 USA HQ--[/COLOR]
 http://69.64.32.8/Streaming/MP.m3u8?device=Q8o22Zu5e8a3Fd3u03J2y1u6Y822W1c73Q4n92Gd8x82xYm404bNc686cPh5w61Wc6d06mMr8s8c3G173N441J285nX&stream=FiveUSA&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]5 USA--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 USA--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/70.m3u8
 
-#EXTINF:-1, [COLOR yellow]5 USA (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--5 USA (ALT)--[/COLOR]
 http://bit.do/bcKGL
 
-#EXTINF:-1, [COLOR yellow]Sky 1--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky 1--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/77.m3u8
 
-#EXTINF:-1, [COLOR yellow]Sky 1 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky 1 (ALT)--[/COLOR]
 http://bit.do/bcKvV
 
-#EXTINF:-1, [COLOR yellow]Sky 2--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Sky 2--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/79.m3u8
 
-#EXTINF:-1, [COLOR yellow]Sky 2 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky 2 (ALT)--[/COLOR]
 http://bit.do/bcH46
 
-#EXTINF:-1, [COLOR yellow]Sky Atlantic UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Atlantic UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/81.m3u8
 
-#EXTINF:-1, [COLOR yellow]Sky Atlantic (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Atlantic (ALT)--[/COLOR]
 http://bit.do/bcH4L
 
-#EXTINF:-1, [COLOR yellow]Sky Living--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Sky Living--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/80.m3u8
 
-#EXTINF:-1, [COLOR yellow]Sky Arts 1--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Sky Arts 1--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/102.m3u8
 
-#EXTINF:-1, [COLOR yellow]Gold--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Gold--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/84.m3u8
 
-#EXTINF:-1, [COLOR yellow]Dave HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Dave HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=sOt8q2w2fDi5k8o3nCy303yFg216Gs8u22iGy1o7w3Cl49j2F8p8b2mA4r04bY68m6Pa561iSc6x0l6Zf8s83yT1x7y3iXd44q1yD2o8o5Z&stream=Dave&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Dave--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Dave--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/83.m3u8
 
-#EXTINF:-1, [COLOR yellow]Dave (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Dave (ALT)--[/COLOR]
 http://bit.do/bcH7j
 
-#EXTINF:-1, [COLOR yellow]Drama HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Drama HQ--[/COLOR]
 http://31.193.128.229/Streaming/MP.m3u8?device=R8w2k2M583O303qRj216sDm8n2c2oO17j3H492Gy8x8o2uM404H686yIt5m61Bs60n6bP8t83J173dSz4g4j1xBc285tR&stream=Drama&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Drama--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Drama--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/68.m3u8
 
-#EXTINF:-1, [COLOR yellow]Quest--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Quest--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/69.m3u8
 
-#EXTINF:-1, [COLOR yellow]Alibi--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Alibi--[/COLOR]
 http://bit.do/bcH5k
 
-#EXTINF:-1, [COLOR yellow]Alibi (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Alibi (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/85.m3u8
 
-#EXTINF:-1, [COLOR yellow]Yesterday HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Yesterday HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=kBv822rYt5q8a3D3k0w3W216Wr82c2eC173Y4n92uD88m2Iu4n04Rh6e8l6Kz56s1A606W88a3cOl173iE44u1Cm2t8n5L&stream=Yesterday&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Quest HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Quest HQ--[/COLOR]
 http://69.64.32.8/Streaming/MP.m3u8?device=aJg82h2G5z83eO3d03oR21f6uVn822uJ1w73rH4d9i2E882Ai4z04E6q8g6xB56v1St6m0p6F883gU1d7o3bDh441V2y8k5W&stream=Quest&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Really HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Really HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=wH82p2Ye583Yx3s03iAg2q16G8q2e2yGi1a7s3mVd49b2tFs88j2rQ4b04Oj68x6kO5s61G6m0a6Nn88a3W1a7k3lGw4i4v1La2r85gP&stream=Really&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]BBC Alba HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC Alba HQ--[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_1=128000-video=1374000.m3u8|X-Forwarded-For=188.226.135.134
 
-#EXTINF:-1, [COLOR yellow]RTE 1--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--RTE 1--[/COLOR] 
 http://37.187.160.187:8000/live/ressler/skype/72.m3u8
 
-#EXTINF:-1, [COLOR yellow]RTE 1 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--RTE 1 (ALT)--[/COLOR]
 http://bit.do/bcKwA
 
-#EXTINF:-1, [COLOR yellow]RTE 2 --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--RTE 2 --[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/73.m3u8
 
-#EXTINF:-1, [COLOR yellow]RTE 2 (ALT)
+#EXTINF:-1, [COLOR yellow]--RTE 2 (ALT)
 http://bit.do/bcKwi
 
-#EXTINF:-1, [COLOR yellow]3E Ireland--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--3E Ireland--[/COLOR]
 http://bit.do/bcKGW
 
-#EXTINF:-1, [COLOR yellow]TV3--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--TV3--[/COLOR] 
 rtmpe://fml.5011.edgecastcdn.net/205011/live playpath=mp4:tv3.mp4 app=205011/live pageURL=http://www.tv3.ie/3player/live/ swfUrl=http://www.tv3.ie/player/assets/flowplayer/flash/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=10
 
-#EXTINF:-1, [COLOR yellow]TG4--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--TG4--[/COLOR] 
 http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
 
-#EXTINF:-1, [COLOR yellow]TG4 (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TG4 (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/75.m3u8
 
-#EXTINF:-1, [COLOR yellow]Australia Plus--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Australia Plus--[/COLOR]
 http://bit.do/bbqUT
 
-#EXTINF:-1, [COLOR yellow]Comedy Central UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Comedy Central UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/82.m3u8
 
-#EXTINF:-1, [COLOR yellow]Comedy Central Sweden (English Spoken)
+#EXTINF:-1, [COLOR yellow]--Comedy Central Sweden (English Spoken)
 http://188.138.9.228:8022
 
-#EXTINF:-1, [COLOR yellow]Fox Europe (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Fox Europe (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_FOX/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Fox Life Europe (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Fox Life Europe (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_FOXLIFE/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]AMC HQ Canada--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--AMC HQ Canada--[/COLOR]
 http://4.31.30.159:9038
 
-#EXTINF:-1, [COLOR yellow]AMC HQ Canada (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--AMC HQ Canada (ALT)--[/COLOR]
 http://bit.do/bcLdn
 
-#EXTINF:-1, [COLOR yellow]AMC HQ Europe (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--AMC HQ Europe (Change To English In Player Settings)--[/COLOR]
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_MGM/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]E U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--E U.S--[/COLOR]
 http://4.31.30.159:9011
 
-#EXTINF:-1, [COLOR yellow]Bravo U.S--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--Bravo U.S--[/COLOR] 
 http://4.31.30.159:9109
 
-#EXTINF:-1, [COLOR yellow]ABC Family U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ABC Family U.S--[/COLOR]
 http://4.31.30.159:9072
 
-#EXTINF:-1, [COLOR yellow]A&E U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--A&E U.S--[/COLOR]
 http://4.31.30.159:9039
 
-#EXTINF:-1, [COLOR yellow]Spike U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Spike U.S--[/COLOR]
 http://4.31.30.159:9009
 
-#EXTINF:-1, [COLOR yellow]Slice U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Slice U.S--[/COLOR]
 http://4.31.30.159:9090
 
-#EXTINF:-1, [COLOR yellow]AXN White HD Portugal (English Spoken)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--AXN White HD Portugal (English Spoken)--[/COLOR]
 http://4.31.30.159:9158
 
-#EXTINF:-1, [COLOR yellow]AXN Black HD Portugal (English Spoken)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--AXN Black HD Portugal (English Spoken)--[/COLOR]
 http://4.31.30.159:9157
 
-#EXTINF:-1, [COLOR yellow]CBS U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBS U.S--[/COLOR]
 rtmpe://rtmp.zerocast.tv/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
 
-#EXTINF:-1, [COLOR yellow]CBS Drama U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBS Drama U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/67.m3u8
 
-#EXTINF:-1, [COLOR yellow]CBS Reality UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBS Reality UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/66.m3u8
 
-#EXTINF:-1, [COLOR yellow]CBS Reality U.K (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBS Reality U.K (ALT)--[/COLOR]
 http://bit.do/bcH5A
 
-#EXTINF:-1, [COLOR yellow]Sony Entertainment (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sony Entertainment (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_SET/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Sony Turbo (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sony Turbo (Change To English In Player Settings)--[/COLOR]
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_SONYTURBO/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Premiere --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Premiere --[/COLOR]
 http://alturl.com/oi5dk
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Action --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Action --[/COLOR]
 http://alturl.com/y9o9r
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Comedy --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Comedy --[/COLOR]
 http://alturl.com/4dunw
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Crime & Thriller--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Crime & Thriller--[/COLOR]
 http://alturl.com/unhqt
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Disney--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Disney--[/COLOR]
 http://alturl.com/8g2vf
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Family --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Family --[/COLOR]
 http://alturl.com/ip6dy
 
-#EXTINF:-1, [COLOR yellow]Sky Movies SciFi & Horror--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies SciFi & Horror--[/COLOR]
 http://alturl.com/cxfam
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Showcase--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Showcase--[/COLOR]
 http://alturl.com/dyx3z
 
-#EXTINF:-1, [COLOR yellow]Sky Movies Select--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky Movies Select--[/COLOR]
 http://alturl.com/iypy2
 
-#EXTINF:-1, [COLOR yellow]Showtime HD U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Showtime HD U.S--[/COLOR]
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]HBO Movie Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--HBO Movie Channel--[/COLOR]
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 
-#EXTINF:-1, [COLOR yellow]HBO HD Asia (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--HBO HD Asia (English Spoken Films)--[/COLOR]
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 
-#EXTINF:-1, [COLOR yellow]Showcase Movies--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Showcase Movies--[/COLOR]
 http://alturl.com/dyx3z
 
-#EXTINF:-1, [COLOR yellow]Cine Mundo Canada --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cine Mundo Canada --[/COLOR]
 http://4.31.30.159:9037
 
-#EXTINF:-1, [COLOR yellow]Pink Premium (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Pink Premium (English Spoken Films)--[/COLOR]
 http://www.nasatv.eu:80/live?channelId=5&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1, [COLOR yellow]Pink Comedy (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Pink Comedy (English Spoken Films)--[/COLOR]
 http://www.nasatv.eu:80/live?channelId=4&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1, [COLOR yellow]Pink Thriller (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Pink Thriller (English Spoken Films)--[/COLOR]
 http://www.nasatv.eu:80/live?channelId=25&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1, [COLOR yellow]Pink Action (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Pink Action (English Spoken Films)--[/COLOR]
 http://www.nasatv.eu:80/live?channelId=64&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1, [COLOR yellow]Film Nje HD (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Film Nje HD (English Spoken Films)--[/COLOR]
 http://94.100.31.242:8183/hls/film3/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Film Hits+1 (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Film Hits+1 (English Spoken Films)--[/COLOR]
 http://94.100.31.242:8183/hls/film1/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Film Aksion (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Film Aksion (English Spoken Films)--[/COLOR]
 http://94.100.31.242:8183/hls/xz3126/index.m3u8--[/COLOR]
 
-#EXTINF:-1, [COLOR yellow]Film 4 HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Film 4 HD--[/COLOR]
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 
-#EXTINF:-1, [COLOR yellow]Film 4 HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Film 4 HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=Lq822gEi583tH3q03O216Mb8r2a2wR17m3yG492kH88e2uP40n4A6q86Ku5x6x1dC606sB8s8u3G1o7t3nWk441Mh28y5jL&stream=Film4&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]MovieMix--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MovieMix--[/COLOR]
 http://31.193.128.229/Streaming/MP.m3u8?device=eA8n22Zt583N303Yr216Q822O1l7w3nI49j2sT882dXg404Pf68y6X56l1F606oBm8w8c3Ag1m73tX44f1dK285T&stream=MovieMix&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Hollywood Film Channel (English Spoken Films)
+#EXTINF:-1, [COLOR yellow]--Hollywood Film Channel (English Spoken Films)
 http://4.31.30.159:9133--[/COLOR]
 
-#EXTINF:-1, [COLOR yellow]Amedia 1 Movies (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Amedia 1 Movies (Change To English In Player Settings)--[/COLOR]
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_AMEDIA/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]TV1000 (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TV1000 (Change To English In Player Settings)--[/COLOR]
 http://195.78.244.219:10000/udp/239.0.3.29:1234
 
-#EXTINF:-1, [COLOR yellow]TV1000 Action (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TV1000 Action (Change To English In Player Settings)--[/COLOR]
 http://195.78.244.219:10000/udp/239.0.3.27:1234
 
-#EXTINF:-1, [COLOR yellow]TV1000 Action (ALT) (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TV1000 Action (ALT) (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_TV1000ACTION/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]E2 (English Spoken TV Shows & Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--E2 (English Spoken TV Shows & Films)--[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]CNBC-E (English Spoken TV Shows & Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CNBC-E (English Spoken TV Shows & Films)--[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]MBC 2 (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MBC 2 (English Spoken Films)--[/COLOR]
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1, [COLOR yellow]MBC Action (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MBC Action (English Spoken Films)--[/COLOR]
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1, [COLOR yellow]MBC Max (English Spoken Films & Shows)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MBC Max (English Spoken Films & Shows)--[/COLOR]
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:-1, [COLOR yellow]Star Movies HD Asia (English Spoken Films)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Star Movies HD Asia (English Spoken Films)--[/COLOR]
 http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
 
-#EXTINF:-1, [COLOR yellow]SVT 1 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--SVT 1 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
 http://188.138.9.228:8001
 
-#EXTINF:-1, [COLOR yellow]SVT 2 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--SVT 2 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
 http://188.138.9.228:8002
 
-#EXTINF:-1, [COLOR yellow]TV4 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TV4 HD Sweden (English Spoken Films & TV Shows)--[/COLOR]
 http://188.138.9.228:8004
 
-#EXTINF:-1, [COLOR yellow]24/7 Western Films Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--24/7 Western Films Channel--[/COLOR]
 mms://72.13.93.186/colorwesterns
 
-#EXTINF:-1, [COLOR yellow]24/7 Murder Mystery Films Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--24/7 Murder Mystery Films Channel--[/COLOR]
 mms://72.13.93.186/mysterymovies
 
-#EXTINF:-1, [COLOR yellow]24/7 Classic Movies Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--24/7 Classic Movies Channel--[/COLOR]
 mms://72.13.93.186/classicmovies
 
-#EXTINF:-1, [COLOR yellow]TLC U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TLC U.S--[/COLOR]
 http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]TLC (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TLC (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_TLC/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]History Channel UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--History Channel UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/90.m3u8
 
-#EXTINF:-1, [COLOR yellow]History Channel Canada--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--History Channel Canada--[/COLOR]
 http://4.31.30.159:9035
 
-#EXTINF:-1, [COLOR yellow]Animal Planet UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Animal Planet UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/95.m3u8
 
-#EXTINF:-1, [COLOR yellow]Animal Planet U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Animal Planet U.S--[/COLOR]
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]Animal Planet Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Animal Planet Europe--[/COLOR]
 http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 
-#EXTINF:-1, [COLOR yellow]Animal Planet (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Animal Planet (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANET/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Discovery Channel HD Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Channel HD Europe--[/COLOR]
 http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]Discovery Channel (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Channel (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNEL/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Discovery Channel+1 U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Channel+1 U.K--[/COLOR]
 http://bit.do/bgwcb
 
-#EXTINF:-1, [COLOR yellow]Discovery ID U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery ID U.K--[/COLOR]
 http://bit.do/bcH5U
 
-#EXTINF:-1, [COLOR yellow]Discovery ID U.K (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery ID U.K (ALT)--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/98.m3u8
 
-#EXTINF:-1, [COLOR yellow]Discovery ID U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery ID U.S--[/COLOR]
 http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]Discovery History U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery History U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/93.m3u8
 
-#EXTINF:-1, [COLOR yellow]Discovery Sceince U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Sceince U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/94.m3u8
 
-#EXTINF:-1, [COLOR yellow]Discovery Turbo U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Turbo U.K--[/COLOR]
 http://bit.do/bgwcP
 
-#EXTINF:-1, [COLOR yellow]Discovery Sceince HD Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Sceince HD Europe--[/COLOR]
 http://80.80.160.168/live/9/live.m3u8--[/COLOR]
 
-#EXTINF:-1, [COLOR yellow]Discovery Science (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery Science (Change To English In Player Settings)--[/COLOR]
 http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_DISCOVERYSCIENCE/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Discovery World (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Discovery World (Change To English In Player Settings)--[/COLOR]
 http://92.38.179.28:81/udp/239.77.0.78:1234
 
-#EXTINF:-1, [COLOR yellow]National Geographic (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--National Geographic (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NATGEO/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]National Geographic Channel U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--National Geographic Channel U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/96.m3u8
 
-#EXTINF:-1, [COLOR yellow]National Geographic Channel U.K (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--National Geographic Channel U.K (ALT)--[/COLOR]
 http://bit.do/bcKwQ
 
-#EXTINF:-1, [COLOR yellow]National Geographic Channel U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--National Geographic Channel U.S--[/COLOR]
 http://4.31.30.159:9021
 
-#EXTINF:-1, [COLOR yellow]Nat Geo Wild U.K
+#EXTINF:-1, [COLOR yellow]--Nat Geo Wild U.K
 http://37.187.160.187:8000/live/ressler/skype/97.m3u8--[/COLOR]
 
-#EXTINF:-1, [COLOR yellow]Nat Geo Wild Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Nat Geo Wild Europe--[/COLOR]
 http://185.13.236.197:4080/udp/224.0.0.120:1237
 
-#EXTINF:-1, [COLOR yellow]T&E U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--T&E U.S--[/COLOR]
 http://4.31.30.159:9066
 
-#EXTINF:-1, [COLOR yellow]Food Network U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Food Network U.K--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=Ij8h2t2vW583J3o03yYh21a6eIw82u2El1m73U4v92U8q82fKt40l4Uh6e86E56f1I6r06V8r8e3Xc1t7e3sCv4c4q1bR285zN&stream=FoodNetwork&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]Food Network U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Food Network U.S--[/COLOR]
 http://4.31.30.159:9028
 
-#EXTINF:-1, [COLOR yellow]DIY Network U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DIY Network U.S--[/COLOR]
 http://bit.do/bbrWB
 
-#EXTINF:-1, [COLOR yellow]Travel Channel U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Travel Channel U.S--[/COLOR]
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]Travel Channel+1 U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Travel Channel+1 U.K--[/COLOR]
 http://bit.do/bgwd4
 
-#EXTINF:-1, [COLOR yellow]Planet Green U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Planet Green U.S--[/COLOR]
 http://80.80.160.168/live/4/live.m3u8
 
-#EXTINF:-1, [COLOR yellow]Viasat Nature (Change To English Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat Nature (Change To English Player Settings)--[/COLOR]
 http://195.78.244.219:10000/udp/239.0.3.28:1234
 
-#EXTINF:-1, [COLOR yellow]Viasat Nature (ALT) (Change To English Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat Nature (ALT) (Change To English Player Settings)--[/COLOR]
 http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATNATURE/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Viasat Explore (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat Explore (Change To English In Player Settings)--[/COLOR]
 http://195.78.244.219:10000/udp/239.0.3.30:1234
 
-#EXTINF:-1, [COLOR yellow]Viasat Explore (ALT) (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat Explore (ALT) (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATEXPLORER/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Viasat History (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat History (Change To English In Player Settings)--[/COLOR]
 http://195.78.244.219:10000/udp/239.0.3.31:1234
 
-#EXTINF:-1, [COLOR yellow]Viasat History (ALT) (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Viasat History (ALT) (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATHISTORY/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]The Outdoor Channel (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--The Outdoor Channel (Change To English In Player Settings)--[/COLOR]
 http://85.94.1.15/hls/CH_C01_OUTDOORCHANNELHD/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]The Outdoor Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--The Outdoor Channel--[/COLOR]
 http://lihattv.wha.la/jhos/outdoor/-/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Motors TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Motors TV--[/COLOR]
 http://4.31.30.159:9134
 
-#EXTINF:-1, [COLOR yellow]London Live
+#EXTINF:-1, [COLOR yellow]--London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1, [COLOR yellow]RT Documentary HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--RT Documentary HD--[/COLOR]
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 
-#EXTINF:-1, [COLOR yellow]CBeebies HD--[/COLOR] 
+#EXTINF:-1, [COLOR yellow]--CBeebies HD--[/COLOR] 
 http://vs-hds-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-audio_1%3D128000-video%3D3500000.m3u8
 
-#EXTINF:-1, [COLOR yellow]CBeebies HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBeebies HQ--[/COLOR]
 http://82.135.224.134:80/udp/239.100.3.5:1234
 
-#EXTINF:-1, [COLOR yellow]CBeebies--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBeebies--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/129.m3u8
 
-#EXTINF:-1, [COLOR yellow]CBBC HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBBC HD--[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-audio_1%3D128000-video%3D3500000.m3u8|X-Forwarded-For=188.226.135.134
 
-#EXTINF:-1, [COLOR yellow]CBBC HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CBBC HQ--[/COLOR]
 http://82.135.224.134:80/udp/239.100.3.4:1234
 
-#EXTINF:-1, [COLOR yellow]Baby TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Baby TV--[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_BABYTV/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Cartoon Network Int--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cartoon Network Int--[/COLOR]
 http://185.13.236.197:4080/udp/224.0.0.120:1244
 
-#EXTINF:-1, [COLOR yellow]Cartoon Network U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cartoon Network U.K--[/COLOR]
 http://bit.do/bgv9b
 
-#EXTINF:-1, [COLOR yellow]Cartoon Network Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cartoon Network Europe--[/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Cartoon Network (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cartoon Network (Change To English In Player Settings)--[/COLOR]
 http://5.128.118.163:7777/udp/239.1.3.3:1234
 
-#EXTINF:-1, [COLOR yellow]Cartoon Network HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cartoon Network HQ--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Boomerang (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Boomerang (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BOOMERANG/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Nickelodeon HD (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Nickelodeon HD (Change To English In Player Settings)--[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Nick Jnr (Change To English In Player Settings)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Nick Jnr (Change To English In Player Settings)--[/COLOR]
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Nick Jnr--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Nick Jnr--[/COLOR]
 http://185.13.236.197:4080/udp/224.0.0.120:1240
 
-#EXTINF:-1, [COLOR yellow]Nick Toons--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Nick Toons--[/COLOR]
 http://bit.do/bcKEZ
 
-#EXTINF:-1, [COLOR yellow]Kids TV --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Kids TV --[/COLOR]
 http://4.31.30.159:9036
 
-#EXTINF:-1, [COLOR yellow]TVO Kids --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--TVO Kids --[/COLOR]
 http://4.31.30.159:9008
 
-#EXTINF:-1, [COLOR yellow]Y-TV Canada--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Y-TV Canada--[/COLOR]
 http://4.31.30.159:9001
 
-#EXTINF:-1, [COLOR yellow]Aniplus (Anmie Channel)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Aniplus (Anmie Channel)--[/COLOR]
 http://streamindo2.ddns.net/jhos/aniplus/asia/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]MTV Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Europe--[/COLOR]
 rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
 
-#EXTINF:-1, [COLOR yellow]MTV Music--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Music--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/107.m3u8
 
-#EXTINF:-1, [COLOR yellow]MTV Music (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Music (ALT)--[/COLOR]
 http://bit.do/bcH8o
 
-#EXTINF:-1, [COLOR yellow]MTV Classic UK--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Classic UK--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/109.m3u8
 
-#EXTINF:-1, [COLOR yellow]MTV Classic U.K (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Classic U.K (ALT)--[/COLOR]
 http://bit.do/bccPJ
 
-#EXTINF:-1, [COLOR yellow]MTV Rock--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Rock--[/COLOR]
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_MTVROCKS/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]MTV Dance U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Dance U.K--[/COLOR]
 http://bit.do/bgwgU
 
-#EXTINF:-1, [COLOR yellow]MTV Live--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Live--[/COLOR]
 http://ow.ly/RpAMt
 
-#EXTINF:-1, [COLOR yellow]MTV Hits U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Hits U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/108.m3u8
 
-#EXTINF:-1, [COLOR yellow]MTV Hits U.K (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Hits U.K (ALT)--[/COLOR]
 http://bit.do/bcKxQ
 
-#EXTINF:-1, [COLOR yellow]MTV Classic--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MTV Classic--[/COLOR]
 http://bit.do/bccPJ
 
-#EXTINF:-1, [COLOR yellow]VH1 U.K--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--VH1 U.K--[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/110.m3u8
 
-#EXTINF:-1, [COLOR yellow]VH1 Canada--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--VH1 Canada--[/COLOR]
 http://4.31.30.159:9004
 
-#EXTINF:-1, [COLOR yellow]VH1 Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--VH1 Europe--[/COLOR]
 http://bit.do/ba28u
 
-#EXTINF:-1, [COLOR yellow]VH1 Latin--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--VH1 Latin--[/COLOR]
 http://ow.ly/RpB9J
 
-#EXTINF:-1, [COLOR yellow]MCM Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MCM Europe--[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]Clubland--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Clubland--[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Club Hits HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Club Hits HD--[/COLOR]
 http://cdn.djing.com/tv/h-05.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Ibiza Hits HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Ibiza Hits HD--[/COLOR]
 http://www.djing.com/tv/d-04.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Underground HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Underground HD--[/COLOR]
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Classics HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Classics HD--[/COLOR]
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Hot Hot Hot HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Hot Hot Hot HD--[/COLOR]
 http://www.djing.com/tv/h-05.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING Animation HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING Animation HD--[/COLOR]
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:-1, [COLOR yellow]DJING DJ S HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--DJING DJ S HD--[/COLOR]
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Club HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Club HD--[/COLOR]
 http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Capital TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Capital TV--[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, [COLOR yellow]Kiss TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Kiss TV--[/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
 
-#EXTINF:-1, [COLOR yellow]4 Music HQ--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--4 Music HQ--[/COLOR]
 http://94.136.47.110/Streaming/MP.m3u8?device=N822lP5f83wF30z3hB216yK82t2oR1s73yHj492N88k2O4q04Ot686Rm56g1K606mY8y83gKj1i7j3T4i41qWk2r8e5U&stream=4Music&q=auto&ver=4.000
 
-#EXTINF:-1, [COLOR yellow]4 Music--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--4 Music--[/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
 
-#EXTINF:-1, [COLOR yellow]Virgin Tv Radio--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Virgin Tv Radio--[/COLOR]
 http://wow01.105.net/live/virgin1/.m3u8
 
-#EXTINF:-1, [COLOR yellow]Smash Hits--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Smash Hits--[/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
 
-#EXTINF:-1, [COLOR yellow]The Box --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--The Box --[/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
 
-#EXTINF:-1, [COLOR yellow]Magic--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Magic--[/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
 
-#EXTINF:-1, [COLOR yellow]Now Thats What I Call Music Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Now Thats What I Call Music Channel--[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Heart FM TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Heart FM TV--[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, [COLOR yellow]Kerrang Music TV --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Kerrang Music TV --[/COLOR]
 http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
 
-#EXTINF:-1, [COLOR yellow]Cinestream TV HD Barbados--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Cinestream TV HD Barbados--[/COLOR]
 http://68.71.42.179/live/livestream1/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Eska Party HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Eska Party HD--[/COLOR]
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 
-#EXTINF:-1, [COLOR yellow]MITV AM HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--MITV AM HD--[/COLOR]
 http://94.125.187.18/hlsam/hd/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Channel AKA--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Channel AKA--[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Vevo TV Playlist 1 --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Vevo TV Playlist 1 --[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Vevo TV Playlist 2--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Vevo TV Playlist 2--[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Vevo TV Playlist 3--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Vevo TV Playlist 3--[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Vevo TV Hip Hop Playlist --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Vevo TV Hip Hop Playlist --[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Vevo TV Country Playlist--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Vevo TV Country Playlist--[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Victoria Secret TV Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Victoria Secret TV Channel--[/COLOR]
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
-#EXTINF:-1, [COLOR yellow]Fashion TV HD--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Fashion TV HD--[/COLOR]
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]Fashion One--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Fashion One--[/COLOR]
 http://80.77.52.6:3917/udp/226.0.1.61:12345
 
-#EXTINF:-1, [COLOR yellow]Community Channel--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Community Channel--[/COLOR]
 http://srv1.cdn.tvcatchup.com/communitychannel_adp.m3u8?clientKey=56fa4034cbd036e9e0c967a72d998767-MTQ0MDU0Mjc4Mw==&channelid=158&device=web&channel=158
 
-#EXTINF:-1, [COLOR yellow]CTV Torronto--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CTV Torronto--[/COLOR]
 http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]Euronews--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Euronews--[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
 
-#EXTINF:-1, [COLOR yellow]Euronews (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Euronews (ALT)--[/COLOR]
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC News HD --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC News HD --[/COLOR]
 http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-audio_1%3D128000-video%3D3500000.m3u8
 
-#EXTINF:-1, [COLOR yellow]BBC World News--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC World News--[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_BBCWORLDNEWS/variant.m3u8?version=2
 
-#EXTINF:-1, [COLOR yellow]BBC News Europe--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC News Europe--[/COLOR]
 http://92.38.179.28:81/udp/239.77.0.142:1234
 
-#EXTINF:-1, [COLOR yellow]BBC Parliment--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--BBC Parliment--[/COLOR]
 http://uk.stream.yo.tv/livehttporigin/BBCParliament_360p.stream/ukturk.m3u8
 
-#EXTINF:-1, [COLOR yellow]Sky News --[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Sky News --[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/89.m3u8
 
-#EXTINF:-1, [COLOR yellow]CNN--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CNN--[/COLOR]
 http://bit.do/ba5n8
 
-#EXTINF:-1, [COLOR yellow]CNN (ALT)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CNN (ALT)--[/COLOR]
 http://4.31.30.159:9056
 
-#EXTINF:-1, [COLOR yellow]France 24 English--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--France 24 English--[/COLOR]
 http://80.77.52.6:3917/udp/226.0.1.34:12345
 
-#EXTINF:-1, [COLOR yellow]Russia Today U.S--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Russia Today U.S--[/COLOR]
 http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/chunklist.m3u8
 
-#EXTINF:-1, [COLOR yellow]ABC News--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--ABC News--[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:-1, [COLOR yellow]CNBC--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CNBC--[/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 
-#EXTINF:-1, [COLOR yellow]NHK World News (English Spoken)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--NHK World News (English Spoken)--[/COLOR]
 http://80.77.52.6:3917/udp/226.0.1.52:12345
 
-#EXTINF:-1, [COLOR yellow]CCTV News (English Spoken)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--CCTV News (English Spoken)--[/COLOR]
 http://80.77.52.6:3917/udp/226.0.1.5:12345
 
-#EXTINF:-1, [COLOR yellow]I24 News (English Spoken)--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--I24 News (English Spoken)--[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:-1, [COLOR yellow]Bloomberg--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--Bloomberg--[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8
 
-#EXTINF:-1, [COLOR yellow]NASA TV--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--NASA TV--[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]International Space Station Live Feeds 1--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--International Space Station Live Feeds 1--[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]International Space Station Live Feeds 2--[/COLOR]
+#EXTINF:-1, [COLOR yellow]--International Space Station Live Feeds 2--[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
