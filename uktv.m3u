@@ -1,97 +1,97 @@
 #EXTM3U
 
 #EXTINF:-1,BBC ONE
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2443&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2443&F=.m3u8
 
 #EXTINF:-1,BBC TWO
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2445&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2445&F=.m3u8
 
 #EXTINF:-1,ITV
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2447&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2447&F=.m3u8
 
 #EXTINF:-1,Channel 4
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2841&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2841&F=.m3u8
 
 #EXTINF:-1,Channel 5
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2843&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2843&F=.m3u8
 
 #EXTINF:-1,ITV 2
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=487&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=487&F=.m3u8
 
 #EXTINF:-1,ITV 3
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2835&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2835&F=.m3u8
 
 #EXTINF:-1,ITV 4
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2837&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2837&F=.m3u8
 
 #EXTINF:-1,SKY 1
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4662&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4662&F=.m3u8
 
 #EXTINF:-1,Pick
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2437&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2437&F=.m3u8
 
 #EXTINF:-1,Dave
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2851&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2851&F=.m3u8
 
 #EXTINF:-1,E4
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2857&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2857&F=.m3u8
 
 #EXTINF:-1,More 4
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2859&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2859&F=.m3u8
 
 #EXTINF:-1,Spike TV
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4410&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4410&F=.m3u8
 
 #EXTINF:-1,5 Star
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2865&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2865&F=.m3u8
 
 #EXTINF:-1,5 USA
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2867&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2867&F=.m3u8
 
 #EXTINF:-1,SKY Living
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2845&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2845&F=.m3u8
 
 #EXTINF:-1,FOX
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=491&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=491&F=.m3u8
 
 #EXTINF:-1,Alibi
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4740&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=4740&F=.m3u8
 
 #EXTINF:-1,Watch
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2847&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2847&F=.m3u8
 
 #EXTINF:-1,Gold
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2849&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2849&F=.m3u8
 
 #EXTINF:-1,TLC
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=503&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=503&F=.m3u8
 
 #EXTINF:-1,History
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=176&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=176&F=.m3u8
 
 #EXTINF:-1,Discovery Channel USA
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=198&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=198&F=.m3u8
 
 #EXTINF:-1,Yesterday
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=519&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=519&F=.m3u8
 
 #EXTINF:-1,National Geographic Channel
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2819&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2819&F=.m3u8
 
 #EXTINF:-1,Comedy Central East
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2575&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2575&F=.m3u8
 
 #EXTINF:-1,Drama
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2875&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2875&F=.m3u8
 
 #EXTINF:-1,Really
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=505&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=505&F=.m3u8
 
 #EXTINF:-1,Tru TV East
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=1769&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=1769&F=.m3u8
 
 #EXTINF:-1,Syfy Latinoamerica
-http://rtvsource.jl.serv.net.mx/STALKER.php?ID=447&F=.m3u8
+hlsvariant://http://rtvsource.jl.serv.net.mx/STALKER.php?ID=447&F=.m3u8
 
 
 
