@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1, [COLOR yellow]KIDS[/COLOR] 
+
+
+#EXTINF:-1, [COLOR yellow]disney jnr[/COLOR]  
+http://31.220.40.123/LiveEdge/DisneyJrUS/chunklist_w1522710873_b1000000.m3u8?token=f18c5e7c3eabc2d70ba52625f2efa180
+
+#EXTINF:-1, [COLOR yellow]nick jnr[/COLOR]  
+http://31.220.40.119/LiveEdge/NickJrUS/chunklist_w1753809769_b1000000.m3u8?token=9f2f92cd76b042e8f0f2ee442fdb5cee
+
+#EXTINF:-1, [COLOR yellow]nickelodeon east U.S[/COLOR]
+http://31.220.40.118/LiveEdge/NickelodeonEastUS/chunklist_w860381886_b1000000.m3u8?token=5f85f67c12ee4f3190fecf9b1b4c52f7
+
+#EXTINF:-1, [COLOR yellow]disney channel east U.S[/COLOR]
+http://31.220.41.107/LiveEdge/DisneyChannelEastHD/chunklist_w143475162_b1000000.m3u8?token=124e3b3976e76e2ffcca90caadaef6e8
+
+#EXTINF:-1, [COLOR yellow]disney channel west U.S[/COLOR]
+http://31.220.40.118/LiveEdge/DisneyChannelWestUS/chunklist_w659128640_b1000000.m3u8?token=1f76b093dc4319ef36aab198a7259372
+
+
 #EXTINF:-1,BBC ONE
 http://rtvsource.jl.serv.net.mx/STALKER.php?ID=2443&F=.m3u8
 
